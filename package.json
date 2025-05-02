@@ -1,0 +1,26 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "Mini project demonstartes how to perform CRUD operations with Node. Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obieh/Node-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/obieh/Node-CRUD/issues"
+  },
+  "homepage": "https://github.com/obieh/Node-CRUD#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1"
+  }
+}
